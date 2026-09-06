@@ -1,21 +1,18 @@
 # Hi there, I'm Shaurya 👋
 
 > ⚡ 2nd-year B.Tech Undergraduate in **Electronics & Communication Engineering (ECE)**. 
-> Exploring the intersection of **hardware description (VHDL)**, low-level embedded logic, **Data Structures & Algorithms (C++)**, and **AI-powered desktop automation**.
+> Exploring the intersection of **digital hardware design (VHDL)**, low-level logic, **Data Structures & Algorithms (C++)**, and **object-oriented systems (Java)**.
 
 ---
 
-### 🔬 Technical Arsenal & Tooling
+### 🔬 Technical Stack & Tools
 
 <p align="left">
-  <!-- Hardware & Low-Level -->
-  <img src="https://img.shields.io/badge/VHDL-Hardware%20Design-00599C?style=for-the-badge&logoColor=white" alt="VHDL" />
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <!-- Software & Scripting -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend HUD" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/VHDL-Hardware%20Design-00599C?style=for-the-badge&logoColor=white" alt="VHDL" />
   <!-- Developer Tools -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -24,13 +21,11 @@
 
 ---
 
-### 📌 Featured Systems & Software Engineering
+### 📌 Featured Projects
 
 #### ❖ [MAYA — Iron Man (JARVIS) Inspired Desktop AI Assistant](https://github.com/Shaurya-dgaf/Maya-Al-Assistant)
-* **Real-time Stark-Tech HUD:** Custom animated UI running over local WebSockets (`ws://localhost:8765`) providing live telemetry, visual radar sweep, and audio spectrum analysis.
-* **Multimodal Screen Vision:** Integrated Google Gemini 2.5 Flash triggered via global hotkeys (`Ctrl + Shift + S`) for real-time visual code/academic problem solving.
-* **Dual-Engine LLM Core:** Low-latency Hindi & English voice engine powered by Groq (`llama-3.3-70b-versatile`) with Edge-TTS speech synthesis.
-* **Automated System Boot:** Standalone Chrome app-window integration executing automatically on system startup.
+* Multi-modal personal assistant integrating **Google Gemini 2.5 Flash** for real-time visual problem-solving directly from desktop capture.
+* Voice-controlled automation pipeline delivering fast responses and system-level task execution.
 
 ---
 
@@ -44,9 +39,9 @@
 
 ---
 
-### 🎯 Engineering Focus & Current Goals
+### 🎯 Engineering Focus & Goals
 
-* 🔌 **Hardware & Architecture:** Digital design fundamentals using **VHDL**, logic synthesis, and hardware-software co-design.
-* 💻 **Algorithms & DSA:** Practicing algorithmic problem-solving in **C++** on LeetCode with a focus on memory and runtime efficiency.
-* 🤖 **AI Agents:** Building low-latency desktop automation tools combining native OS APIs with modern multi-modal LLMs.
-* ⚡ **Daily Philosophy:** Balancing silicon-level logic with modern software stacks.
+* 🔌 **Digital Logic & Hardware:** RTL design and digital electronics fundamentals using **VHDL**.
+* 💻 **Algorithms & DSA:** Solving algorithmic challenges in **C++** on LeetCode with strong focus on time and space complexity.
+* ☕ **Object-Oriented Programming:** Core software design patterns and modular application development using **Java**.
+* ⚡ **Core Vision:** Bridging hardware-level architecture with efficient software development.
